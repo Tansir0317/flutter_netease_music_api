@@ -1,3 +1,4 @@
-## 0.0.1
+## [0.0.1] - 2025-03-05
 
-* TODO: Describe initial release.
+### Initial
+- 功能: 初始化

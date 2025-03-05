@@ -1,7 +1,7 @@
 name: flutter_netease_music_api
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Tansir0317/flutter_netease_music_api/tree/master
 
 environment:
   sdk: ^3.5.4
