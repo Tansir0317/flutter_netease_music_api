@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_netease_music_api:
     path: ../
+  dio: ^5.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
